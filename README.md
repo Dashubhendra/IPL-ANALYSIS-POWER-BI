@@ -21,34 +21,34 @@ Getting Started
 To start exploring the IPL Analysis project in Power BI, follow these steps:
 
  Prerequisites
-Power BI Desktop (latest version)
-Kaggle dataset (IPL data)
+1)Power BI Desktop (latest version)
+2)Kaggle dataset (IPL data)
  Installation
-Download the Dataset
-Obtain the IPL dataset from Kaggle. You can download it from the Kaggle IPL Dataset.
-Open Power BI Desktop
+1)Download the Dataset.
+2)Obtain the IPL dataset from Kaggle. You can download it from the Kaggle IPL Dataset.
+3)Open Power BI Desktop
 If you don’t have Power BI Desktop installed, download and install it from the Power BI website.
-Load the Data
-Open Power BI Desktop and load the IPL dataset:
+4)Load the Data
+5)Open Power BI Desktop and load the IPL dataset:
 Go to Home > Get Data > CSV (or the format of your dataset).
-Select the downloaded dataset file and click Load.
+6)Select the downloaded dataset file and click Load.
 Transform and Clean Data
-Use Power Query Editor to perform data transformation and cleaning:
+7)Use Power Query Editor to perform data transformation and cleaning:
 Go to Home > Transform Data.
-Apply necessary transformations and clean the data to fit your analysis needs.
+8)Apply necessary transformations and clean the data to fit your analysis needs.
 Create KPIs and Dashboards
-Use DAX to create calculations and KPIs:
+9)Use DAX to create calculations and KPIs:
 Go to Modeling > New Measure to define new metrics.
-Create visualizations and arrange them into dashboards.
+10)Create visualizations and arrange them into dashboards.
  Publish the Report
 Publish your Power BI report to the Power BI service:
 Go to Home > Publish.
-Follow the prompts to publish your report to Power BI Online.
+11)Follow the prompts to publish your report to Power BI Online.
  Project Structure
 IPL_Analysis.pbix: Power BI project file containing data transformations, visualizations, and dashboards.
 Data/: Folder containing the IPL dataset and any supporting files.
  Usage
-Open the IPL_Analysis.pbix file in Power BI Desktop to view the dashboards and insights. You can interact with the dashboards to explore various aspects of the IPL
+Open the IPL_Analysis.pbix file in Power BI Desktop to view the dashboards and insights. You can interact with the dashboards to explore various aspects of the IPL.
 
 
 
